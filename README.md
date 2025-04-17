@@ -1,2 +1,2 @@
-# Journal
-This is tech learning journal where I will comment everyday what I learned.
+# Daily Learning Journal
+This is a tech learning journal where I will comment daily on what I learned.
